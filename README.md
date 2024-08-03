@@ -14,7 +14,7 @@ PostgreSQL (ou autre base de données selon la configuration)
 
 ## Installation
 ### Clonez le dépôt :
-git clone https://github.com/votre_nom_utilisateur/the-big-project.git
+git clone [https://github.com/AbdallahBAMOGO/ETP4A-S6-J1-RailsIntermediaire-TheBigProject.git](https://github.com/AbdallahBAMOGO/ETP4A-S6-J1-RailsIntermediaire-TheBigProject.git)
 cd the-big-project
 ### Installez les gems nécessaires :
 bundle install
